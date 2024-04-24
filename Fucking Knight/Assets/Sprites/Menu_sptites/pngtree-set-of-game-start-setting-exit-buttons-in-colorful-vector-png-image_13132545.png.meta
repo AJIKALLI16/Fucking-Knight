@@ -1,0 +1,757 @@
+fileFormatVersion: 2
+guid: 885df09f21785ef409ca83887b0f9ad2
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: pngtree-set-of-game-start-setting-exit-buttons-in-colorful-vector-png-image_13132545_0
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 766
+        width: 688
+        height: 229
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 229}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc951d5b6bf4e38429ef75e7f591b27a
+      internalID: -553642984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-set-of-game-start-setting-exit-buttons-in-colorful-vector-png-image_13132545_2
+      rect:
+        serializedVersion: 2
+        x: 1063
+        y: 1067
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 966ec21dfa8c8194cb09b15a96847b75
+      internalID: 2115155295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-set-of-game-start-setting-exit-buttons-in-colorful-vector-png-image_13132545_3
+      rect:
+        serializedVersion: 2
+        x: 1087
+        y: 1091
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6eebb4a205f4335458cbd2f5bab5fce0
+      internalID: 351407148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-set-of-game-start-setting-exit-buttons-in-colorful-vector-png-image_13132545_4
+      rect:
+        serializedVersion: 2
+        x: 1006
+        y: 1009
+        width: 50
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ef89e87572cade46a9c65f58cea91ab
+      internalID: -1392884300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-set-of-game-start-setting-exit-buttons-in-colorful-vector-png-image_13132545_5
+      rect:
+        serializedVersion: 2
+        x: 1048
+        y: 1047
+        width: 21
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8231b25d3aa6c704b861c12af7c186ec
+      internalID: 1005607979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-set-of-game-start-setting-exit-buttons-in-colorful-vector-png-image_13132545_6
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 949
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaa9499ed25412e4196e8c1a57e5b460
+      internalID: 1598438495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-set-of-game-start-setting-exit-buttons-in-colorful-vector-png-image_13132545_7
+      rect:
+        serializedVersion: 2
+        x: 981
+        y: 979
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11e229fe485de854ab8ab24823469f73
+      internalID: 1383711361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-set-of-game-start-setting-exit-buttons-in-colorful-vector-png-image_13132545_8
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 787
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 087506a727b57d147893b6ce4413f8cf
+      internalID: 225324205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-set-of-game-start-setting-exit-buttons-in-colorful-vector-png-image_13132545_9
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 812
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 961604d30cfed8b47a1f5f5ffed48b7b
+      internalID: -396370607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-set-of-game-start-setting-exit-buttons-in-colorful-vector-png-image_13132545_10
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 615
+        width: 243
+        height: 244
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17088ce8dec05a244bc48c951cbc7e6d
+      internalID: -53906667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-set-of-game-start-setting-exit-buttons-in-colorful-vector-png-image_13132545_11
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 729
+        width: 50
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d178bbe548f7df54391cbd4aaad220f9
+      internalID: 449513320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-set-of-game-start-setting-exit-buttons-in-colorful-vector-png-image_13132545_12
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 767
+        width: 21
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 000041389db95c04eb698b3661751770
+      internalID: -1839753367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-set-of-game-start-setting-exit-buttons-in-colorful-vector-png-image_13132545_13
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 669
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b04bf312021a0124680cbf4f39e40007
+      internalID: 1705997874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-set-of-game-start-setting-exit-buttons-in-colorful-vector-png-image_13132545_14
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 700
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 354f534aee7804c43b1f177869f5168c
+      internalID: 303375784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-set-of-game-start-setting-exit-buttons-in-colorful-vector-png-image_13132545_15
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 487
+        width: 692
+        height: 226
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 4, y: 2, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a617373647d2a24b89974a4a4a75d38
+      internalID: 497097978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-set-of-game-start-setting-exit-buttons-in-colorful-vector-png-image_13132545_16
+      rect:
+        serializedVersion: 2
+        x: 1063
+        y: 466
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a70bfcb40ed79d43bf2d83a871b70aa
+      internalID: 1406701669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-set-of-game-start-setting-exit-buttons-in-colorful-vector-png-image_13132545_17
+      rect:
+        serializedVersion: 2
+        x: 1087
+        y: 491
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5737000159889e34f9c22ff46b83549e
+      internalID: -678998343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-set-of-game-start-setting-exit-buttons-in-colorful-vector-png-image_13132545_18
+      rect:
+        serializedVersion: 2
+        x: 1006
+        y: 408
+        width: 50
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b487f6667befc574ebd8868d8f465f1e
+      internalID: 1919594774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-set-of-game-start-setting-exit-buttons-in-colorful-vector-png-image_13132545_19
+      rect:
+        serializedVersion: 2
+        x: 1048
+        y: 446
+        width: 21
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1f156ee6d6089146a2def635e149b63
+      internalID: 625936466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-set-of-game-start-setting-exit-buttons-in-colorful-vector-png-image_13132545_20
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 347
+        width: 40
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b526f2a7fef136246a9698a54db14d49
+      internalID: -1124863414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-set-of-game-start-setting-exit-buttons-in-colorful-vector-png-image_13132545_21
+      rect:
+        serializedVersion: 2
+        x: 981
+        y: 378
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcb0ee5235209ee4a831383291ab4db0
+      internalID: 43708215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-set-of-game-start-setting-exit-buttons-in-colorful-vector-png-image_13132545_22
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 186
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff517b75b2b615e42a964ba07d2085ef
+      internalID: 2049148613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-set-of-game-start-setting-exit-buttons-in-colorful-vector-png-image_13132545_23
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 211
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb31f198fcd0e6549b1f416890d15c8c
+      internalID: -627325764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-set-of-game-start-setting-exit-buttons-in-colorful-vector-png-image_13132545_24
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 202
+        width: 689
+        height: 233
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d02b9d7ebc03ed41b3ec936ca85e9a1
+      internalID: -776595624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-set-of-game-start-setting-exit-buttons-in-colorful-vector-png-image_13132545_25
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 128
+        width: 50
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11baee5eb8a6f5241bb5609676195d9c
+      internalID: -861867964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-set-of-game-start-setting-exit-buttons-in-colorful-vector-png-image_13132545_26
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 166
+        width: 21
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f657ec917f07b84a9b6b5e2ca66cf53
+      internalID: 938944041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-set-of-game-start-setting-exit-buttons-in-colorful-vector-png-image_13132545_27
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 68
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eec0d5e6bc4234548a194f8c2a0260bc
+      internalID: -1932432129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-set-of-game-start-setting-exit-buttons-in-colorful-vector-png-image_13132545_28
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 99
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44dab333391e4f34aade6d8da1e336ba
+      internalID: 744435399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      pngtree-set-of-game-start-setting-exit-buttons-in-colorful-vector-png-image_13132545_0: -553642984
+      pngtree-set-of-game-start-setting-exit-buttons-in-colorful-vector-png-image_13132545_1: -715055814
+      pngtree-set-of-game-start-setting-exit-buttons-in-colorful-vector-png-image_13132545_10: -53906667
+      pngtree-set-of-game-start-setting-exit-buttons-in-colorful-vector-png-image_13132545_11: 449513320
+      pngtree-set-of-game-start-setting-exit-buttons-in-colorful-vector-png-image_13132545_12: -1839753367
+      pngtree-set-of-game-start-setting-exit-buttons-in-colorful-vector-png-image_13132545_13: 1705997874
+      pngtree-set-of-game-start-setting-exit-buttons-in-colorful-vector-png-image_13132545_14: 303375784
+      pngtree-set-of-game-start-setting-exit-buttons-in-colorful-vector-png-image_13132545_15: 497097978
+      pngtree-set-of-game-start-setting-exit-buttons-in-colorful-vector-png-image_13132545_16: 1406701669
+      pngtree-set-of-game-start-setting-exit-buttons-in-colorful-vector-png-image_13132545_17: -678998343
+      pngtree-set-of-game-start-setting-exit-buttons-in-colorful-vector-png-image_13132545_18: 1919594774
+      pngtree-set-of-game-start-setting-exit-buttons-in-colorful-vector-png-image_13132545_19: 625936466
+      pngtree-set-of-game-start-setting-exit-buttons-in-colorful-vector-png-image_13132545_2: 2115155295
+      pngtree-set-of-game-start-setting-exit-buttons-in-colorful-vector-png-image_13132545_20: -1124863414
+      pngtree-set-of-game-start-setting-exit-buttons-in-colorful-vector-png-image_13132545_21: 43708215
+      pngtree-set-of-game-start-setting-exit-buttons-in-colorful-vector-png-image_13132545_22: 2049148613
+      pngtree-set-of-game-start-setting-exit-buttons-in-colorful-vector-png-image_13132545_23: -627325764
+      pngtree-set-of-game-start-setting-exit-buttons-in-colorful-vector-png-image_13132545_24: -776595624
+      pngtree-set-of-game-start-setting-exit-buttons-in-colorful-vector-png-image_13132545_25: -861867964
+      pngtree-set-of-game-start-setting-exit-buttons-in-colorful-vector-png-image_13132545_26: 938944041
+      pngtree-set-of-game-start-setting-exit-buttons-in-colorful-vector-png-image_13132545_27: -1932432129
+      pngtree-set-of-game-start-setting-exit-buttons-in-colorful-vector-png-image_13132545_28: 744435399
+      pngtree-set-of-game-start-setting-exit-buttons-in-colorful-vector-png-image_13132545_3: 351407148
+      pngtree-set-of-game-start-setting-exit-buttons-in-colorful-vector-png-image_13132545_4: -1392884300
+      pngtree-set-of-game-start-setting-exit-buttons-in-colorful-vector-png-image_13132545_5: 1005607979
+      pngtree-set-of-game-start-setting-exit-buttons-in-colorful-vector-png-image_13132545_6: 1598438495
+      pngtree-set-of-game-start-setting-exit-buttons-in-colorful-vector-png-image_13132545_7: 1383711361
+      pngtree-set-of-game-start-setting-exit-buttons-in-colorful-vector-png-image_13132545_8: 225324205
+      pngtree-set-of-game-start-setting-exit-buttons-in-colorful-vector-png-image_13132545_9: -396370607
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
